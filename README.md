@@ -10,11 +10,11 @@ Instructions:
 
 Places:
 
--  vutez (1330, 570) ![vutez](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/vutez.png)
+- (1330, 570)  vutez ![vutez](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/vutez.png)
 
-- hyunface (1290, 580) ![hyunjin](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/hyunjin.png) 
+- (1290, 580) hyunface ![hyunjin](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/hyunjin.png) 
 
-- main area LOONA and VUT.CZ (302, 780) ![LOONAxVUT](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/LOONAxVUT.CZ.png)
+- (302, 780) main area LOONA and VUT.CZ ![LOONAxVUT](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/LOONAxVUT.CZ.png)
 
 - (1362, 570) friends sapari and cardiacs ![sapari_cardiacs](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/sapari_cardiacs.png)
 
