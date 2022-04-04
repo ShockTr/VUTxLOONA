@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VUTxLOONA
 // @namespace    https://github.com/DEM0N194/VUTxLOONA
-// @version      1.1.6
+// @version      1.1.7
 // @description  r/place template script for VUT.CZ and r/LOONA
 // @author       u/DEM0N194
 // @match        https://www.reddit.com/r/place/*
@@ -28,6 +28,8 @@ const images = [
   [1394, 570, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/yinyang_noborder2.png"],
   [1670, 1585, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/ot12.png"],
   [1168, 223, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/fitvut.png"],
+  [511, 529, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/miniloona-511-529.png"],
+  [1633, 892, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/rloona-at-1633-892.png"],
 ]
 
 
