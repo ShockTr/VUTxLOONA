@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         VUTxLOONA
-// @namespace    https://github.com/DEM0N194/VUTxLOONA
+// @namespace    https://github.com/ShockTr/VUTxLOONA
 // @version      1.2.0
-// @description  r/place template script for VUT.CZ and r/LOONA
+// @description  r/place template script for VUT.CZ r/LOONA and kpopplace
 // @author       u/DEM0N194
 // @match        https://www.reddit.com/r/place/*
 // @match        https://new.reddit.com/r/place/*
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/vutez.png
 // @grant        none
-// @downloadURL  https://github.com/DEM0N194/VUTxLOONA/raw/main/VUTxLOONA.user.js
+// @downloadURL  https://github.com/ShockTr/VUTxLOONA/raw/main/VUTxLOONA.user.js
 // @license      GPL-3.0
 // ==/UserScript==
 
@@ -30,6 +30,7 @@ const images = [
   [1168, 223, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/fitvut.png"],
   [511, 529, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/miniloona-black-bg-511-529icon.png"],
   [1633, 892, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/rloona-at-1633-892.png"],
+  [1479, 1000, 1, "https://raw.githubusercontent.com/ShockTr/VUTxLOONA/main/kpopplace.png"]
 ]
 
 
