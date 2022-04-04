@@ -1,5 +1,5 @@
 # VUTxLOONA
-Pixel template for VUT and LOONA on r/place
+Pixel template for VUT and r/LOONA on r/place
 - shows which color should be placed in which position
 
 Instructions:
@@ -22,9 +22,14 @@ Places:
 
 - (1394, 570) VUTxLOONA YIN YANG ![yinyang](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/yinyang_noborder2.png)
 
-- (1670, 1585) ot12 ![ot12](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/ot12.png)
+- (1670, 1585) ot12 ![ot12](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/ot12.png) NOT WORKING ON THIS
 
 - (1168, 223) FIT.VUT.CZ 20 year anniversary ![fitvut](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/fitvut.png)
+
+- (511, 529) miniloona ![miniloona](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/miniloona-511-529.png)
+
+- (1633, 892) rloona ![rloona](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/rloona-at-1633-892.png)
+
 
 
 Feel free to contribute by creating a pull request or tag me on discord @DEM0N94#0797
