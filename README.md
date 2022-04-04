@@ -1,4 +1,7 @@
 # VUTxLOONA
+
+**THIS IS NOT A BOT THIS IS JUST A HELPER SCRIPT TO ASSIST YOU TO PLACE BLOCKS**
+
 Pixel template for VUT and r/LOONA on r/place
 - shows which color should be placed in which position
 
@@ -37,3 +40,34 @@ Feel free to contribute by creating a pull request or tag me on discord @DEM0N94
 r/LOONA: https://discord.gg/8BfPEwrq
 
 ![how it works](https://cdn.discordapp.com/attachments/959273604850278450/960462955072335892/unknown.png)
+
+
+## All images
+
+### rloona bottom left: 1633, 897
+
+![](rloona-bottom-left-1633-897.png)
+
+### trojan chuu bottom left: 352, 1635
+
+![](trojan-chuu-bottom-left-352-1635.png)
+
+### vut cardiacs yingyang bottom-left: 1330,599
+
+![](vut-cardiacs-yingyang-bottom-left-1330-599.png)
+
+### hyunface bottom-left: 1291,614
+
+![](hyunface-bottom-left-1291-614.png)
+
+### mini-loona bottom-left 511,541
+
+![](mini-loona-bottom-left-511-541.png)
+
+### loona-vut-main: bottom-left: 302, 830
+
+![](loona-vut-main-bottom-left-302-830.png)
+
+### ot12-just-design we are not building this (we like the ducks there!): bottom-left: 1670,1585
+
+![](ot12-just-design-1670-1585.png)
