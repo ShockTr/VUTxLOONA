@@ -29,7 +29,7 @@ Places:
 
 - (1168, 223) FIT.VUT.CZ 20 year anniversary ![fitvut](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/fitvut.png)
 
-- (511, 529) miniloona ![miniloona](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/miniloona-511-529.png)
+- (511, 529) miniloona ![miniloona](miniloona-black-bg-511-529icon.png)
 
 - (1633, 892) rloona ![rloona](https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/rloona-at-1633-892.png)
 
@@ -62,7 +62,9 @@ r/LOONA: https://discord.gg/8BfPEwrq
 
 ### mini-loona bottom-left 511,541
 
-![](mini-loona-bottom-left-511-541.png)
+(changing to black bg)
+
+![](miniloona-black-bg-511-541.png)
 
 ### loona-vut-main: bottom-left: 302, 830
 

@@ -28,7 +28,7 @@ const images = [
   [1394, 600, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/yinyang_noborder2.png"],
   [1670, 1585, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/ot12.png"],
   [1168, 223, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/fitvut.png"],
-  [511, 529, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/miniloona-511-529.png"],
+  [511, 529, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/miniloona-black-bg-511-529icon.png"],
   [1633, 892, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/rloona-at-1633-892.png"],
 ]
 
