@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VUTxLOONA
 // @namespace    https://github.com/DEM0N194/VUTxLOONA
-// @version      1.0.2
+// @version      1.0.3
 // @description  r/place template script for VUT.CZ and r/LOONA
 // @author       u/DEM0N194
 // @match        https://www.reddit.com/r/place/*
@@ -71,7 +71,7 @@ function imgload(img, x, y, scale){
   canvas.height = (img_h / scale) * pixels_per_placepixel;
   
   
-  canvas.style = "position: absolute;left:" + x + "px ;top:" + y + "px;image-rendering: pixelated;" + "width: " + parseInt(img_w / scale)  + "px;height: " + parseInt(img_h / scale) + "px;";
+  canvas.style = "position: absolute;left:" + (x-0.25) + "px ;top:" + (y-0.5) + "px;image-rendering: pixelated;" + "width: " + parseInt(img_w / scale)  + "px;height: " + parseInt(img_h / scale) + "px;";
   
   console.log(canvas);
   const ctx = canvas.getContext('2d');
