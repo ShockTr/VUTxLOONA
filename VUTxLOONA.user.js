@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VUTxLOONA
 // @namespace    https://github.com/DEM0N194/VUTxLOONA
-// @version      1.1.3
+// @version      1.1.4
 // @description  r/place template script for VUT.CZ and r/LOONA
 // @author       u/DEM0N194
 // @match        https://www.reddit.com/r/place/*
@@ -26,6 +26,7 @@ const images = [
   [1362, 570, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/sapari_cardiacs.png"],
   [352, 1600, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/TrojanChuu.png"],
   [1394, 570, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/yinyang_noborder.png"],
+  [1670, 1585, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/ot12.png"],
 ]
 
 
