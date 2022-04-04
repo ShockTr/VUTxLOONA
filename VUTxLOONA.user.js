@@ -21,7 +21,7 @@ const images = [
   
   /* [x_location, y_location, scale, image_url] */
   [1330, 570, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/vutez.png"],
-  [1290, 580, 12, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/vutez.png"],
+  [1290, 580, 12, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/hyunface.png"],
 ]
 
 
