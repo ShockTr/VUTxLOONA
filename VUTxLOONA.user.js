@@ -30,7 +30,7 @@ const images = [
   [1168, 223, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/fitvut.png"],
   [511, 529, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/miniloona-black-bg-511-529icon.png"],
   [1633, 892, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/rloona-at-1633-892.png"],
-  [1479, 1000, 1, "https://raw.githubusercontent.com/ShockTr/VUTxLOONA/main/kpopplace.png"]
+  [1479, 999, 1, "https://raw.githubusercontent.com/ShockTr/VUTxLOONA/main/kpopplace.png"]
 ]
 
 
