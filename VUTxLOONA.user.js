@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         VUTxLOONA
+// @name         kpopplace modified version of: VUTxLOONA
 // @namespace    https://github.com/ShockTr/VUTxLOONA
 // @version      1.2.0
 // @description  r/place template script for VUT.CZ r/LOONA and kpopplace
