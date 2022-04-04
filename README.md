@@ -6,6 +6,7 @@ Instructions:
 1. Install TamperMonkey https://www.tampermonkey.net/ in your preferred browsers
 2. Click on https://github.com/DEM0N194/VUTxLOONA/raw/main/VUTxLOONA.user.js
 3. Install the script and refresh r/place
+4. Don't forget to update the script from time to time (step 2)
 
 Places:
 
