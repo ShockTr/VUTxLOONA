@@ -19,7 +19,7 @@ const images = [
    * 64x64 pixel image, scale is 10 */
   
   /* [x_location, y_location, scale, image_url] */
-  [1330, 570, 17, "https://github.com/DEM0N194/VUTxLOONA/blob/main/vutez.png"] ,
+  [1330, 570, 1, "https://github.com/DEM0N194/VUTxLOONA/blob/main/vutez.png"] ,
 ]
 
 
