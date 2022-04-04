@@ -1,14 +1,15 @@
 // ==UserScript==
 // @name         VUTxLOONA
 // @namespace    https://github.com/DEM0N194/VUTxLOONA
-// @version      1.0.3
+// @version      1.0.4
 // @description  r/place template script for VUT.CZ and r/LOONA
 // @author       u/DEM0N194
 // @match        https://www.reddit.com/r/place/*
 // @match        https://new.reddit.com/r/place/*
 // @match        https://hot-potato.reddit.com/embed*
-// @icon         https://cdn.discordapp.com/attachments/959273604850278450/960424884209610762/vutez.png
+// @icon         https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/vutez.png
 // @grant        none
+// @downloadURL  https://github.com/DEM0N194/VUTxLOONA/raw/main/VUTxLOONA.user.js
 // @license      GPL-3.0
 // ==/UserScript==
 
